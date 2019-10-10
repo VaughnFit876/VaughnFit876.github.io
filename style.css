@@ -5,6 +5,28 @@ html{
   box-sizing: inherit;
 }
 
+.sideleft{
+  background-color: inherit;
+  margin: 10px;
+  border-radius: 5px;
+  padding:20px;
+  float: left;
+  width: 260px;
+  border-bottom: 4px solid lightgrey;
+
+}
+
+.anonymous1{
+  background-color: inherit;
+  margin: 10px;
+  border-radius: 5px;
+  padding:20px;
+  float: left;
+  width: 260px;
+  border-bottom: none;
+
+}
+
 body{
   font-family: 'Source Sans Pro', sans-serif;
   line-height: 1.5;
@@ -59,7 +81,7 @@ section:last-child{
   font-size: 18px;
 }
 
-img.avatar{
+img.Vaughn{
   width: 180px;
 }
 
